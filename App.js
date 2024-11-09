@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, Dimensions } from 'react-native';
 
-//Screens
+//Screens are good
 import AddCard from './screens/AddCard';
 
 const scrnH = Dimensions.get('window').height;
